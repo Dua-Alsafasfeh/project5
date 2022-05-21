@@ -1,4 +1,5 @@
-<?php include 'include/header.php'; ?>
+<?php include 'include/header.php'; 
+include 'config/connect.php';?>
 
 
 <section class="slider_section">

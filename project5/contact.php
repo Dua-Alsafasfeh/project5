@@ -1,4 +1,5 @@
-<?php include 'include/header.php'; ?>
+<?php include 'include/header.php'; 
+include 'config/connect.php';?>
 <br>
 <div class="contactus">
    <div class="container-fluid">
